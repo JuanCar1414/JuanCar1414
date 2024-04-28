@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Database, Frameworks for mobile, Pascal and COBOL**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
