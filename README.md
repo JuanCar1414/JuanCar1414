@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Juan Carlos</h1>
-- 🔭 I’m currently working on **Database and Back-end Projects**
+- 🔭 I’m currently working on Database and Back-end Projects
 
 - 🌱 I’m currently learning **Database, Frameworks for mobile, Pascal and COBOL**
 
